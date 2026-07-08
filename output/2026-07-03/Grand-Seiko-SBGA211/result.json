@@ -1,0 +1,34 @@
+{
+  "articul": "SBGA211",
+  "brand": "Grand Seiko",
+  "card": {
+    "articul": "SBGA211",
+    "brand": "Grand Seiko",
+    "name": "Grand Seiko Heritage Collection SBGA211",
+    "collection": "Heritage Collection",
+    "mechanism": "Механический",
+    "caliber": "9R65",
+    "jewels": "30",
+    "power_reserve": "72 часа",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да двунаправленный",
+    "additional_functions": [
+      "дата"
+    ],
+    "case_material": "титан высокой прочности",
+    "bracelet_strap_material": "стальной браслет",
+    "glass": "сапфировое стекло с антибликовым покрытием",
+    "dial_color": "серебристый",
+    "water_resistance": "100 м",
+    "diameter": "41 мм",
+    "thickness": "12.5 мм",
+    "country": "Япония",
+    "description": "Часы Grand Seiko Heritage Collection SBGA211 — это элегантное произведение искусства, сочетающее в себе традиции и современные технологии. Корпус из титана высокой прочности обеспечивает легкость и устойчивость к царапинам и коррозии. Сапфировое стекло с антибликовым покрытием надежно защищает циферблат, оформленный в виде хрупких снежных формаций горного массива Хотака. Автоматический механизм Spring Drive Caliber 9R65 обеспечивает точность и долгий запас хода до 72 часов. Часы оснащены функцией даты, что делает их удобными для повседневного использования.",
+    "source_url": "https://www.grand-seiko.com/global-en/collections/sbga211g",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "source_url": "https://www.grand-seiko.com/global-en/collections/sbga211g",
+  "source_tier": "official",
+  "confidence_status": "partial"
+}

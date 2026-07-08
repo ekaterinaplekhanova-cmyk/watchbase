@@ -1,0 +1,283 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "purpose": "Шаблон карточки товара для интернет-магазина 316.watch",
+    "rules_url": "./plan.md"
+  },
+  "fields": {
+    "articul": {
+      "label": "Артикул",
+      "format": "Заглавными буквами",
+      "example": "116610LN",
+      "source": "пользователь",
+      "required": true
+    },
+    "name": {
+      "label": "Название товара",
+      "format": "Бренд + Коллекция + Артикул",
+      "example": "Rolex Submariner 116610LN",
+      "source": "генерируется",
+      "required": true
+    },
+    "brand": {
+      "label": "Бренд",
+      "format": "С заглавной буквы",
+      "example": "Rolex",
+      "source": "официальный сайт / авторизованный дилер",
+      "required": true
+    },
+    "collection": {
+      "label": "Коллекция",
+      "format": "С заглавной буквы",
+      "example": "Submariner",
+      "source": "официальный сайт / авторизованный дилер",
+      "required": false
+    },
+    "condition": {
+      "label": "Состояние",
+      "format": "Новые / С пробегом",
+      "example": "Новые",
+      "source": "пользователь",
+      "required": true
+    },
+    "mechanism": {
+      "label": "Механизм",
+      "format": "Механический / Кварцевый",
+      "example": "Механический",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "caliber": {
+      "label": "Калибр",
+      "format": "Номер калибра",
+      "example": "3135",
+      "source": "официальный сайт / watchbase.com",
+      "required": true
+    },
+    "jewels": {
+      "label": "Количество камней",
+      "format": "Только число, без слов",
+      "example": "31",
+      "source": "официальный сайт / watchbase.com",
+      "required": false
+    },
+    "power_reserve": {
+      "label": "Запас хода",
+      "format": "Число + час/часа/часов",
+      "example": "72 часа",
+      "source": "официальный сайт / watchbase.com",
+      "required": false
+    },
+    "frequency": {
+      "label": "Количество полуколебаний",
+      "format": "число кол./час",
+      "example": "28800 кол./час",
+      "source": "официальный сайт / watchbase.com",
+      "required": false
+    },
+    "auto_winding": {
+      "label": "Автоподзавод",
+      "format": "да двунаправленный / да однонаправленный / нет",
+      "example": "да двунаправленный",
+      "source": "официальный сайт / watchbase.com",
+      "required": false
+    },
+    "additional_functions": {
+      "label": "Дополнительные функции",
+      "format": "Список из фиксированного набора",
+      "example": ["календарь", "хронограф"],
+      "allowed_values": [
+        "будильник",
+        "второй часовой пояс",
+        "гелиевый клапан",
+        "дайверский безель",
+        "индикатор приливов и отливов",
+        "индикатор день/ночь",
+        "календарь",
+        "компас",
+        "логарифмическая линейка",
+        "лунный календарь",
+        "мировое время",
+        "тахиметр",
+        "хронограф",
+        "хронометр"
+      ],
+      "source": "официальный сайт",
+      "required": false
+    },
+    "case_material": {
+      "label": "Материал корпуса",
+      "format": "Название материала",
+      "example": "Сталь / Сталь с PVD покрытием",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "bracelet_strap_material": {
+      "label": "Материал браслета/ремня",
+      "format": "Название материала",
+      "example": "Сталь / Каучук",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "glass": {
+      "label": "Стекло",
+      "format": "Тип стекла",
+      "example": "Сапфировое",
+      "source": "официальный сайт",
+      "required": false
+    },
+    "dial_color": {
+      "label": "Цвет циферблата",
+      "format": "Основной цвет, без составных",
+      "example": "Черный",
+      "source": "официальный сайт",
+      "required": false
+    },
+    "water_resistance": {
+      "label": "Водозащита",
+      "format": "Число + м (только метры)",
+      "example": "300 м",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "diameter": {
+      "label": "Диаметр корпуса",
+      "format": "Число + мм",
+      "example": "40 мм",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "thickness": {
+      "label": "Толщина корпуса",
+      "format": "Число + мм (с запятой или без, как на сайте)",
+      "example": "14,1 мм / 14 мм",
+      "source": "официальный сайт",
+      "required": false
+    },
+    "country": {
+      "label": "Страна производства",
+      "format": "С заглавной буквы",
+      "example": "Швейцария",
+      "source": "официальный сайт",
+      "required": false
+    },
+    "warranty": {
+      "label": "Гарантия",
+      "format": "X лет / X лет от 316.watch",
+      "example": "5 лет / 2 года от 316.watch",
+      "source": "пользователь / официальный сайт",
+      "required": true
+    },
+    "price": {
+      "label": "Цена",
+      "format": "Число (руб.)",
+      "example": "1250000",
+      "source": "пользователь",
+      "required": false
+    },
+    "description": {
+      "label": "Описание",
+      "format": "10–20 предложений с SEO-ключами",
+      "example": "Rolex Submariner 116610LN — классические дайверские часы...",
+      "source": "генерируется",
+      "required": true
+    },
+    "bezel": {
+      "label": "Безель",
+      "format": "Описание состояния/типа безеля",
+      "example": "Керамический, вращающийся",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "accessories": {
+      "label": "Комплектация",
+      "format": "Список комплектующих",
+      "example": "Коробка, документы, теги",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "bracelet_strap_condition": {
+      "label": "Состояние браслета/ремня",
+      "format": "Описание состояния",
+      "example": "Отличное, небольшие следы ношения",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "case_condition": {
+      "label": "Состояние корпуса",
+      "format": "Описание состояния",
+      "example": "Хорошее, микроцарапины",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "glass_condition": {
+      "label": "Состояние стекла",
+      "format": "Описание состояния",
+      "example": "Идеальное, без царапин",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "movement_condition": {
+      "label": "Техническое состояние механизма",
+      "format": "Описание состояния",
+      "example": "Работает корректно",
+      "source": "пользователь (только для часов с пробегом)",
+      "required_if": "condition == 'С пробегом'"
+    },
+    "seo_title": {
+      "label": "SEO-заголовок",
+      "format": "До 60 символов",
+      "example": "Часы Rolex Submariner 116610LN — купить в 316.watch",
+      "source": "генерируется",
+      "required": false
+    },
+    "seo_description": {
+      "label": "SEO-описание",
+      "format": "До 160 символов",
+      "example": "Rolex Submariner 116610LN — классические дайверские часы...",
+      "source": "генерируется",
+      "required": false
+    },
+    "meta_keywords": {
+      "label": "Ключевые слова",
+      "format": "Список ключевых слов через запятую",
+      "example": "Rolex Submariner 116610LN, купить часы Rolex, дайверские часы",
+      "source": "генерируется",
+      "required": false
+    },
+    "source_url": {
+      "label": "URL источника",
+      "format": "Ссылка на официальный/авторизованный источник",
+      "example": "https://www.rolex.com/watches/submariner/m116610ln-0001.html",
+      "source": "официальный сайт",
+      "required": true
+    },
+    "caliber_source_url": {
+      "label": "URL источника по калибру",
+      "format": "Ссылка на специализированный сайт (например, watchbase.com)",
+      "example": "https://watchbase.com/rolex/caliber/3135",
+      "source": "watchbase.com / аналогичный сайт",
+      "required": false
+    },
+    "confidence_status": {
+      "label": "Статус проверки",
+      "format": "verified / partial / manual_check_required",
+      "example": "verified",
+      "source": "fact-checker",
+      "required": true
+    }
+  },
+  "rules": {
+    "name_format": "{brand} {collection} {articul}",
+    "water_resistance_units": "только метры",
+    "water_resistance_conversion": {
+      "1_bar": "10 м",
+      "1_atm": "10 м"
+    },
+    "dial_color_allowed": [
+      "Черный", "Синий", "Белый", "Серебристый", "Зеленый", "Коричневый",
+      "Красный", "Оранжевый", "Желтый", "Серый", "Бежевый", "Розовый", "Фиолетовый", "Золотистый"
+    ],
+    "guarantee_from_us_marker": "от 316.watch"
+  }
+}

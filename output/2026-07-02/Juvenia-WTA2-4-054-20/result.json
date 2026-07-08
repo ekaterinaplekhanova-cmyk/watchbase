@@ -1,0 +1,40 @@
+{
+  "articul": "WTA2.4.054.20",
+  "brand": "Juvenia",
+  "card": {
+    "articul": "WTA2.4.054.20",
+    "brand": "Juvenia",
+    "name": "Juvenia J Collection WTA2.4.054.20",
+    "collection": "J Collection",
+    "mechanism": "Механический",
+    "caliber": "11 ½ ''' J07-A",
+    "jewels": "не найдено",
+    "power_reserve": "не найдено",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да двунаправленный",
+    "additional_functions": [
+      "дата",
+      "мировое время"
+    ],
+    "case_material": "сталь",
+    "bracelet_strap_material": "кожаный ремень",
+    "glass": "сапфировое стекло",
+    "dial_color": "чёрный",
+    "water_resistance": "3 м",
+    "diameter": "40 мм",
+    "thickness": "10 мм",
+    "country": "Швейцария",
+    "description": "Часы Juvenia J Collection WTA2.4.054.20 представляют собой элегантное и изящное исполнение для ценителей премиальных швейцарских часов. Корпус из стали с диаметром 40 мм и толщиной 10 мм обеспечивает комфортное ношение, а кожаный ремень подчеркивает классический стиль модели. Часы оснащены механическим калибром J07-A с частотой колебаний 28 800 полуколебаний в час и двунаправленным автоподзаводом, что обеспечивает точность работы механизма. Чёрный циферблат с флекюэ-декоративным узором украшен метками для отображения даты и мирового времени с маркерами 24 часов. Сапфировое стекло надежно защищает механизм, а водонепроницаемость на уровне 3 м позволяет использовать часы в повседневных условиях.",
+    "source_url": "https://www.juvenia.ch/wta2.4.054.20",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "seo_description_short": "",
+  "blog_article": "",
+  "telegram_post": "",
+  "source_url": "https://www.juvenia.ch/wta2.4.054.20",
+  "source_tier": "official",
+  "confidence_status": "partial",
+  "image_sources": [],
+  "card_only": true
+}

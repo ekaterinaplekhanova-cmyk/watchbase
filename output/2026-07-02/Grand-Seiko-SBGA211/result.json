@@ -1,0 +1,40 @@
+{
+  "articul": "SBGA211",
+  "brand": "Grand Seiko",
+  "card": {
+    "articul": "SBGA211",
+    "brand": "Grand Seiko",
+    "name": "не найдено",
+    "collection": "не найдено",
+    "mechanism": "не найдено",
+    "caliber": "не найдено",
+    "jewels": "не найдено",
+    "power_reserve": "не найдено",
+    "frequency": "не найдено",
+    "auto_winding": "не найдено",
+    "additional_functions": [
+      "Date",
+      "Power Reserve Indicator"
+    ],
+    "case_material": "Stainless Steel",
+    "bracelet_strap_material": "Stainless Steel",
+    "glass": "Sapphire",
+    "dial_color": "White",
+    "water_resistance": "100.00 м",
+    "diameter": "41.00 мм",
+    "thickness": "12.50 мм",
+    "country": "не найдено",
+    "description": "Информация о модели Grand Seiko SBGA211 отсутствует на сайте. Для получения подробной информации обратитесь в службу поддержки магазина.",
+    "source_url": "https://www.grand-seiko.com/global-en/collections/sbga211",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "seo_description_short": "",
+  "blog_article": "",
+  "telegram_post": "",
+  "source_url": "https://www.grand-seiko.com/global-en/collections/sbga211",
+  "source_tier": "official",
+  "confidence_status": "partial",
+  "image_sources": [],
+  "card_only": true
+}

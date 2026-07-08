@@ -1,0 +1,34 @@
+{
+  "articul": "109052",
+  "brand": "Traser",
+  "card": {
+    "articul": "109052",
+    "brand": "Traser",
+    "name": "Traser P67 Officer Pro 109052",
+    "collection": "P67 Officer Pro",
+    "mechanism": "Кварцевый",
+    "caliber": "не найдено",
+    "jewels": "не найдено",
+    "power_reserve": "не найдено",
+    "frequency": "не найдено",
+    "auto_winding": "нет",
+    "additional_functions": [
+      "люминесцентные метки"
+    ],
+    "case_material": "сталь с PVD-покрытием",
+    "bracelet_strap_material": "стальной браслет",
+    "glass": "сапфировое стекло",
+    "dial_color": "хаки",
+    "water_resistance": "200 м",
+    "diameter": "41 мм",
+    "thickness": "не найдено",
+    "country": "Швейцария",
+    "description": "P67 Officer Pro от Traser — это часы, созданные для тех, кто ищет приключения. Кварцевый механизм обеспечивает высокую точность во всех климатических зонах. Циферблат украшен люминесцентными метками, которые обеспечивают читаемость даже в полной темноте благодаря технологии Trigalight. Корпус из стали с PVD-покрытием и стальной браслет делают часы устойчивыми к повреждениям и долговечными. Сапфировое стекло защищает циферблат от царапин, а водонепроницаемость до 200 метров позволяет использовать их.",
+    "source_url": "https://www.traser.com/eu/en/collection/our-collection/outdoor-watches/p67-officer-pro/",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "source_url": "https://www.traser.com/eu/en/collection/our-collection/outdoor-watches/p67-officer-pro/",
+  "source_tier": "official",
+  "confidence_status": "partial"
+}

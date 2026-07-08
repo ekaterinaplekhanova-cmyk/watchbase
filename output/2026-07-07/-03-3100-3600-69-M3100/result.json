@@ -1,0 +1,12 @@
+{
+  "articul": "03.3100.3600/69.M3100",
+  "brand": "",
+  "card": {
+    "error": "Не указан артикул или бренд"
+  },
+  "description_model": "",
+  "telegram_post": "",
+  "source_url": "",
+  "source_tier": null,
+  "confidence_status": "manual_check_required"
+}

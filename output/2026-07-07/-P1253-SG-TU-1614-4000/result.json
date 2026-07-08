@@ -1,0 +1,12 @@
+{
+  "articul": "P1253 SG TU 1614 4000",
+  "brand": "",
+  "card": {
+    "error": "Не указан артикул или бренд"
+  },
+  "description_model": "",
+  "telegram_post": "",
+  "source_url": "",
+  "source_tier": null,
+  "confidence_status": "manual_check_required"
+}

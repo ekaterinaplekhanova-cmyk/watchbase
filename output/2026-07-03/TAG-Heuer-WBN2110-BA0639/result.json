@@ -1,0 +1,39 @@
+{
+  "articul": "WBN2110.BA0639",
+  "brand": "TAG Heuer",
+  "card": {
+    "articul": "WBN2110.BA0639",
+    "brand": "TAG Heuer",
+    "name": "TAG Heuer Carrera WBN2110.BA0639",
+    "collection": "Carrera",
+    "mechanism": "Механический",
+    "caliber": "5 Automatic",
+    "jewels": "не найдено",
+    "power_reserve": "не найдено",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да однонаправленный",
+    "additional_functions": [
+      "дата"
+    ],
+    "case_material": "сталь",
+    "bracelet_strap_material": "стальной браслет",
+    "glass": "сапфировое стекло",
+    "dial_color": "чёрный",
+    "water_resistance": "100 м",
+    "diameter": "39 мм",
+    "thickness": "11.50 мм",
+    "country": "не найдено",
+    "description": "Изящная версия культовой модели TAG Heuer Carrera, выполненная в элегантном стиле. Часы оснащены автоматическим механизмом Calibre 5 с функцией отображения даты и двунаправленным автоподзаводом. Стальной корпус и чёрный циферблат с азуражем подчёркивают современный городской стиль. Фиксированный браслет из стали дополняет элегантность модели.",
+    "source_url": "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-carrera/39-mm-calibre-5-automatic/WBN2110.BA0639.html",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "seo_description_short": "",
+  "blog_article": "",
+  "telegram_post": "",
+  "source_url": "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-carrera/39-mm-calibre-5-automatic/WBN2110.BA0639.html",
+  "source_tier": "official",
+  "confidence_status": "partial",
+  "image_sources": [],
+  "card_only": true
+}

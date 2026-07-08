@@ -1,0 +1,34 @@
+{
+  "articul": "81010-11-634-11A",
+  "brand": "Girard-Perregaux",
+  "card": {
+    "articul": "81010-11-634-11A",
+    "brand": "Girard-Perregaux",
+    "name": "Girard-Perregaux Laureato 81010-11-634-11A",
+    "collection": "Laureato",
+    "mechanism": "Механический",
+    "caliber": "GP01800",
+    "jewels": "28",
+    "power_reserve": "54 часа",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да двунаправленный",
+    "additional_functions": [
+      "дата"
+    ],
+    "case_material": "сталь",
+    "bracelet_strap_material": "стальной браслет",
+    "glass": "сапфировое стекло",
+    "dial_color": "Чёрный",
+    "water_resistance": "100 м",
+    "diameter": "42 мм",
+    "thickness": "10.68 мм",
+    "country": "Швейцария",
+    "description": "Модель Girard-Perregaux Laureato с диаметром корпуса 42 мм и стальным браслетом представляет собой современное обновление классического дизайна, впервые представленного в 1975 году. Часы оснащены автоподзаводным механизмом GP01800 с частотой колебаний 28 800 полуколебаний в час и запасом хода до 54 часов. Корпус из стали украшен оригинальной формой браслета, характерной для коллекции Laureato. Сапфировое стекло защищает циферблат от повреждений, обеспечивая прочность и прозрачность. Модель вписывается в традиционную концепцию высокой часовой индустрии Girard-Perregaux, сочетая спортивный стиль с элегантностью.",
+    "source_url": "https://www.girard-perregaux.com/watches/laureato/81010-11-634-11a",
+    "source_tier": "official",
+    "confidence_status": "partial"
+  },
+  "source_url": "https://www.girard-perregaux.com/watches/laureato/81010-11-634-11a",
+  "source_tier": "official",
+  "confidence_status": "partial"
+}

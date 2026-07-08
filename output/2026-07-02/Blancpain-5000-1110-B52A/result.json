@@ -1,0 +1,39 @@
+{
+  "articul": "5000-1110-B52A",
+  "brand": "Blancpain",
+  "card": {
+    "articul": "5000-1110-B52A",
+    "brand": "Blancpain",
+    "name": "Blancpain Fifty Fathoms Bathyscaphe 5000.1110.B52A",
+    "collection": "Fifty Fathoms Bathyscaphe",
+    "mechanism": "Механический",
+    "caliber": "1315",
+    "jewels": "25",
+    "power_reserve": "120 часов",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да двунаправленный",
+    "additional_functions": [
+      "дата"
+    ],
+    "case_material": "сталь",
+    "bracelet_strap_material": "стальной браслет, хлопковый ремень",
+    "glass": "сапфировое стекло с антибликовым покрытием на обеих сторонах",
+    "dial_color": "серый",
+    "water_resistance": "300 м",
+    "diameter": "43 мм",
+    "thickness": "13.4 мм",
+    "country": "Швейцария",
+    "description": "Blancpain Fifty Fathoms Bathyscaphe представляет собой элегантное и функциональное времяпрепровождение, созданное для ценителей классики и надёжности. Корпус из стали с диаметром 43 мм и толщиной 13.4 мм обеспечивает прочность и комфорт на запястье. Автоматический механизм Blancpain Caliber 1315 с резервом хода до 120 часов гарантирует точное время в течение длительного периода без подзавода. Циферблат серого цвета украшен лунными метками и индикаторами, а также оснащён яркими стрелками для удобства чтения времени в условиях недостаточной освещенности. Браслет из стали с хлопковым ремнём добавляет элегантность и комфорт при ношении. Часы обладают водонепроницаемостью до 30 атмосфер, что обеспечивает защиту от воды на глубине до 300 метров.",
+    "source_url": "https://everywatch.com/blancpain/fifty-fathoms/5000-1110-b52a/watch-15030956",
+    "source_tier": "reputable",
+    "confidence_status": "partial"
+  },
+  "seo_description_short": "",
+  "blog_article": "",
+  "telegram_post": "",
+  "source_url": "https://everywatch.com/blancpain/fifty-fathoms/5000-1110-b52a/watch-15030956",
+  "source_tier": "reputable",
+  "confidence_status": "partial",
+  "image_sources": [],
+  "card_only": true
+}

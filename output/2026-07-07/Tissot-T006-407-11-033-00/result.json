@@ -1,0 +1,38 @@
+{
+  "articul": "T006.407.11.033.00",
+  "brand": "Tissot",
+  "card": {
+    "articul": "T006.407.11.033.00",
+    "brand": "Tissot",
+    "name": "Tissot Le Locle Powermatic 80 T006.407.11.033.00",
+    "collection": "Le Locle",
+    "mechanism": "Механический",
+    "caliber": "POWERMATIC 80.111",
+    "jewels": "не найдено",
+    "power_reserve": "80 часов",
+    "frequency": "28 800 кол./час",
+    "auto_winding": "да двунаправленный",
+    "additional_functions": [
+      "дата"
+    ],
+    "case_material": "сталь",
+    "bracelet_strap_material": "стальной браслет",
+    "glass": "не найдено",
+    "dial_color": "серебристый",
+    "water_resistance": "30 м",
+    "diameter": "39.3 мм",
+    "thickness": "не найдено",
+    "country": "Швейцария",
+    "description": "Tissot Le Locle Powermatic 80 T006.407.11.033.00 — элегантные часы с классическим дизайном и надёжным швейцарским механизмом. Корпус из стали с открытым задним крылом позволяет любоваться внутренней механикой. Циферблат украшен серебристым цветом, подчёркивающим элегантность модели. Стальной браслет надёжно фиксируется на запястье благодаря складному застежке. Механизм Powermatic 80 с автоподзаводом обеспечивает работу часов в течение 80 часов без подзарядки, что делает модель удобной для использования.",
+    "source_url": "https://www.thewatchpages.com/watches/tissot-le-locle-powermatic-80-t0064071103300/",
+    "source_tier": "reputable",
+    "confidence_status": "partial"
+  },
+  "description_model": "",
+  "telegram_post": "",
+  "source_url": "https://www.thewatchpages.com/watches/tissot-le-locle-powermatic-80-t0064071103300/",
+  "source_tier": "reputable",
+  "confidence_status": "partial",
+  "image_sources": [],
+  "card_only": true
+}
