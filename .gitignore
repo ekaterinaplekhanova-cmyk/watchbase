@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary / output files
+output/
+app/output/
+*.log
+*.tmp
+*.cache
+
+# Test / debug artifacts
+test_*.py
+run_*.py
+rerun*.py
+fix_*.py
+build_*.py
+*.html
+_*.txt
+_*.json
+_*.py
+breitling_*.json
+chrono24_*.txt
+caliber_*.txt
+watchbase_*.txt
+thewatchpages_*.txt
+
+# Data inputs
+input/
+
+# Old project docs
+PLAN_30_DAYS.md
+ROADMAP.md
+plan.md
