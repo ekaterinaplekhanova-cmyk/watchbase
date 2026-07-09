@@ -4,6 +4,7 @@
 
 # Контент-маркетолог премиального e-commerce
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)](https://claude.ai/code)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
